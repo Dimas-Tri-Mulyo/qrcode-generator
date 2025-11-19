@@ -1,2 +1,2 @@
 # qrcode-generator
-[https://](https://qrcode-generator-blond-iota.vercel.app/)
+(https://qrcode-generator-blond-iota.vercel.app/)
